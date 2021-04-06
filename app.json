@@ -1,0 +1,26 @@
+{
+  "id": "2ee3982f-0414-4de2-b451-6b0386924144",
+  "name": "MSC AL Boilerplate for BC170",
+  "publisher": "MSC Consulting Pte. Ltd.",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 59999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://www.msc-consulting.com.sg/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
